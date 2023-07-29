@@ -1,0 +1,29 @@
+.slider h3 {
+    color: black;
+    text-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+}
+.slider {
+    height: 700px;
+}
+.slider h5 {
+    color: chartreuse;
+    text-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+}
+.parallax-container {
+    height: 20%;
+}
+h3 {
+    color: black;
+    text-shadow: 3px 3px 5px rgba(0,0,0,0.5);
+}
+.parallax img {
+    filter: grayscale(1);
+    opacity: .5 !important;
+}
+img {
+    width: 190px;
+    opacity: .9;
+}
+section, footer {
+    padding: 20px 0;
+}
